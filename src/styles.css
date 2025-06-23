@@ -1,0 +1,105 @@
+.other-content-a
+{
+
+}
+
+
+.other-content-a__inner
+{
+
+}
+
+
+.test 
+{
+
+}
+
+
+.test__inner 
+{
+
+}
+
+.other-content-b 
+{
+
+}
+
+.other-content-b__more
+{
+
+}
+
+
+
+.test-2 
+{
+
+}
+
+.test-2__more
+{
+    
+}
+
+
+.test-3
+{
+  --scope-hash: 9b71e2; /* Collision-prevention ID */
+  color:pink;
+}
+
+.test-3__inner:first-child .test-3__more:not(:last-child) + .test-3__content 
+{
+
+}
+
+
+
+.other-content-c 
+{
+
+}
+
+
+.other-content-c__more
+{
+
+}
+
+
+.test-6
+{
+  --scope-hash: 9fdc57; /* Collision-prevention ID */
+  background-color: black;
+  color:red;
+}
+
+
+.test-6__inner:first-child .test-6__more:not(:last-child) + .test-6__content * 
+{
+
+}
+
+
+
+
+.other-content-d
+{
+
+}
+
+
+.other-2
+{
+  --scope-hash: 79ba44; /* Collision-prevention ID */
+  padding:3rem;
+}
+
+
+
+.other-content-e 
+{
+    
+}

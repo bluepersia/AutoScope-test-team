@@ -48,7 +48,7 @@
 {
   --scope-hash: 9b71e2; /* Collision-prevention ID */
   color:pink;
-    background-color:blue;
+    background-color:green;
 }
 
 .test-3__inner:first-child .test-3__more:not(:last-child) + .test-3__content 

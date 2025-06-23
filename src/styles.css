@@ -44,12 +44,6 @@
 }
 
 
-.test-3
-{
-  --scope-hash: 9b71e2; /* Collision-prevention ID */
-  color:aqua;
-    background-color:red;
-}
 
 .test-3__inner:first-child .test-3__more:not(:last-child) + .test-3__content 
 {

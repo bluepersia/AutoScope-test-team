@@ -47,7 +47,7 @@
 .test-3
 {
   --scope-hash: 9b71e2; /* Collision-prevention ID */
-  color:pink;
+  color:aqua;
     background-color:red;
 }
 
